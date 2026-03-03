@@ -16,13 +16,15 @@ Open another terminal and run:
 node server.js
 ```
 
-## 3. Open in Browser
+## 3. Open in Browser first the caller (just open with browser)
 
-Meta (Receiver):
-http://192.168.10.114:8000/init_new.html
+caller_new.html
 
-Kai Meta (Caller):
-http://192.168.10.114:8000/caller_new.html
+## 3. And then the callee (just open with browser)
+
+init_new.html
+
+
 
 ## 4. Start the Call
 
