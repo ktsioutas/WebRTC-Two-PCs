@@ -1,4 +1,4 @@
-# WebRTC Two PCs Setup
+# WebRTC Two PCs Setup in a windows or linux machine
 
 ## 1. Start the HTTP Server
 
