@@ -1,6 +1,6 @@
 
 First run the server using python
-'''bash
+```bash
 python3 -m http.server 8000
 
 meta o signaling
