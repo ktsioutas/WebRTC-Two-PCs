@@ -1,6 +1,5 @@
 
-
-Prwta na trexei o http server ekei poy einai ta arxeia html
+First run the server using python
 python3 -m http.server 8000
 
 meta o signaling
@@ -14,3 +13,9 @@ kai na patas call
 
 
 
+## 🚀 Start the Server
+
+First, run the Python HTTP server:
+
+```bash
+python3 -m http.server 8000
