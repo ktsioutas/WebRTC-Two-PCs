@@ -1,4 +1,11 @@
+# WebRTC Two PCs Setup
 
+## 🚀 1. Start the HTTP Server
+
+Run the Python HTTP server:
+
+```bash
+python3 -m http.server 8000
 First run the server using python
 ```bash
 python3 -m http.server 8000
